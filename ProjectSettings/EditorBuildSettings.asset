@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/360VideoTour.unity
+    guid: bf44de10992800a409abb8e4193addd4
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6a38dc3c84338a441baedcb1bbbea57d,
       type: 2}
